@@ -3,4 +3,4 @@ if answer == 'Хорошо':
     print('Да')
 else:
     print('Нет')
-print('Образец')
+print('Образец из занятий')
