@@ -1,6 +1,5 @@
-answer = input('Как дела?')
-if answer == 'Хорошо':
-    print('Да')
-else:
-    print('Нет')
-print('Образец')
+insect = 'Пьявица обыкновенная'
+age = 35
+mm = 12.2
+female = False
+print(type(insect), type(age), type(mm), type(female), sep = '/n')
