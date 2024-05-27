@@ -1,0 +1,6 @@
+answer = input('Как дела?')
+if answer == 'Хорошо':
+    print('Да')
+else:
+    print('Нет')
+print('Ещё одна строка кода для примера')
